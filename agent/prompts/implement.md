@@ -30,6 +30,32 @@ Why this matters: [explanation]
 How should I proceed?
 ```
 
+When the developer responds with a product or technical decision, record it (see **Recording Decisions** below).
+
+## Recording Decisions
+
+Whenever you ask for clarification from the developer and receive an answer that involves **product or technical considerations**, append it to the decisions doc:
+
+1. **Path**: `docs/decisions.md`
+2. **If the file does not exist**: Create it with a heading and the decision entry
+3. **Format** for each entry:
+   - Date (YYYY-MM-DD)
+   - Context (what was unclear or in question)
+   - Decision (what the developer decided)
+   - Phase or area affected (if applicable)
+
+Example entry:
+
+```markdown
+### [YYYY-MM-DD] [Brief title]
+
+**Context:** [What prompted the question]
+**Decision:** [Developer's answer]
+**Scope:** [Phase N / component / etc.]
+```
+
+Only record decisions that are product- or technical-related. Skip administrative or procedural answers (e.g., "yes, continue", "run the tests").
+
 ## Verification
 
 After each phase:
