@@ -206,9 +206,9 @@ Topics that need investigation or experimentation.
 
 ---
 
-# Phase 6 — MVP Architecture
+# Phase 6 — Initial Delivery Architecture
 
-Recommend a **simplified architecture for the MVP**, optimized for:
+Recommend an **initial delivery architecture**, optimized for:
 
 * fastest development
 * lowest complexity
@@ -217,7 +217,7 @@ Recommend a **simplified architecture for the MVP**, optimized for:
 Explain:
 
 * what to build first
-* what to fake or defer
+* what to stage behind later checkpoints
 * what to simplify
 
 End with:

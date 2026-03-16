@@ -40,13 +40,13 @@ Choose from: "Project completion", "Project completion + interviews", "Behaviora
 
 ### 5. Project Overview
 
-"One-week sprint with three deadlines:" — render as a table with Checkpoint, Deadline, Focus columns.
+"One-week sprint with three checkpoints:" — render as a table with Checkpoint, Deadline, Focus columns.
 
-Include Pre-Search, MVP (Tuesday/24hrs), Early Submission (Friday/4 days), Final (Sunday/7 days).
+Include Pre-Search, Build Checkpoint (Tuesday/24hrs), Early Submission (Friday/4 days), Final Submission (Sunday/7 days).
 
-### 6. MVP Requirements (24 Hours)
+### 6. Build Checkpoint Requirements (24 Hours)
 
-- "Hard gate. All items required to pass:"
+- "Progress gate. All items required for this checkpoint:"
 - 7-10 checklist items (☐). Each is a single concrete, testable deliverable.
 - Items should start with core functionality, include data/integration layer, end with "Deployed and publicly accessible."
 - Closing maxim: "A simple [X] with [quality] beats a [complex X] with [broken quality]."
@@ -107,7 +107,7 @@ Always include: GitHub Repository, Demo Video (3-5 min), Pre-Search Document, do
 
 ### 15. Final Note
 
-- Restate the simplicity maxim (rephrased from MVP section)
+- Restate the simplicity maxim (rephrased from Build Checkpoint section)
 - Restate gate requirement
 
 ### 16. Appendix: Pre-Search Checklist
@@ -128,7 +128,7 @@ Before finishing, verify:
 
 - [ ] Every table has consistent column formatting
 - [ ] Performance targets use specific numbers, not vague qualifiers
-- [ ] MVP items are testable yes/no deliverables
+- [ ] Build checkpoint items are testable yes/no deliverables
 - [ ] Pre-Search questions are domain-specific, not generic
 - [ ] Build strategy starts with the hardest subsystem
 - [ ] At least one "implement N of the following" choice list exists

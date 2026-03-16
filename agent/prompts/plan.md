@@ -52,6 +52,7 @@ Save to `docs/plans/YYYY-MM-DD-description.md`:
 
 ## Desired End State
 [Specification and how to verify]
+[Define the complete target deliverable. Do not split scope into MVP vs final deliverable; use phased checkpoints toward one end state.]
 
 ## What We're NOT Doing
 [Out-of-scope items]

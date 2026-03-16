@@ -16,7 +16,7 @@ Takes an implementation plan and generates a structured milestone/task breakdown
 
 You will receive:
 
-1. **Plan path** — e.g. `docs/plans/2025-03-06-sessionlens-mvp.md`
+1. **Plan path** — e.g. `docs/plans/2025-03-06-sessionlens.md`
 2. Optional: custom milestone naming, task granularity preferences
 
 Read the plan completely before generating.
@@ -156,7 +156,7 @@ Create `docs/plans/milestones/_index.md`:
 
 ---
 
-## Example Mapping (SessionLens MVP)
+## Example Mapping (SessionLens)
 
 | Plan Phase | Milestone Dir | Example Tasks |
 |------------|---------------|---------------|
@@ -175,4 +175,4 @@ Attach this prompt and the plan, then:
 
 Or:
 
-> Create milestone breakdown for the SessionLens MVP plan
+> Create milestone breakdown for the SessionLens plan
